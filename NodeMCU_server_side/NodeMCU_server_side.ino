@@ -1,6 +1,6 @@
 #include <ESP8266WiFi.h>
 
-int led = 5; // the pin the LED is connected to
+int led = 2; // the pin the LED is connected to
 
 const char* ssid = "B315_F9519";                  // Your wifi Name       
 const char* password = "1GGRTA85GD4"; // Your wifi Password
